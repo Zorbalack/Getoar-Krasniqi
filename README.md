@@ -1,2 +1,2 @@
-# Getoar-Krasniqi
-Snachat
+#trackers
+Snapchat
